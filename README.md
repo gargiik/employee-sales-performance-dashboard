@@ -21,7 +21,7 @@ The objective of this project is to analyze employee sales performance across va
 - Validated results to ensure accuracy in all formulas and calculations.
 
 ## 📉 Dashboard
-<img width="1100" height="500" alt="Screenshot" src="https://github.com/user-attachments/assets/edcb04cf-0134-4cda-b504-25f680ee3208" />
+<img width="900" height="400" alt="Screenshot" src="https://github.com/user-attachments/assets/edcb04cf-0134-4cda-b504-25f680ee3208" />
 
 ## 📈 Project Insights
 - Strong variation exists across different regions and employees.
