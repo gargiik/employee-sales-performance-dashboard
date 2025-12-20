@@ -6,6 +6,12 @@ The objective of this project is to analyze employee sales performance across va
 ## 📁 Dataset Used
 - <a href="https://github.com/gargiik/employee-sales-performance-dashboard/blob/main/employee%20sales%20dashboard.xlsm">Dataset</a>
 
+## Tool Used
+- Excel
+- Pivot Tables
+- Charts
+- Slicers
+
 ## 📊 Key Questions (KPIs)
 - Which employees achieved the highest total sales?
 - Which regions performed the best overall?
