@@ -6,7 +6,7 @@ The objective of this project is to analyze employee sales performance across va
 ## 📁 Dataset Used
 - <a href="https://github.com/gargiik/employee-sales-performance-dashboard/blob/main/employee%20sales%20dashboard.xlsm">Dataset</a>
 
-## Tool Used
+## Tools Used
 - Excel
 - Pivot Tables
 - Charts
